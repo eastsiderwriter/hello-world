@@ -1,2 +1,2 @@
 # hello-world
-This is how it begins. Readme Written by David Barrett.
+This is how it begins. Readme written by David Barrett.
